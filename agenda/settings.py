@@ -80,9 +80,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'agenda',
-        'USER': 'tccedev',
+        'USER': '************',
         'HOST': 'localhost',
-        'PASSWORD': 'Postgr3SQL@1311',
+        'PASSWORD': '************',
         'PORT': '5432',
     }
 }
