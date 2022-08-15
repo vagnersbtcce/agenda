@@ -11,7 +11,7 @@ if __name__ == '__main__':
 
     url_root =  "http://127.0.0.1:8000/api/"
     url_api = url_root + "tarefas/"
-    auth = ('tccedev', 't1c5c0e5')
+    auth = ('************', '************')
     response = requests.get(url_api, auth=auth)
 
     resposta_usuario = '0'
